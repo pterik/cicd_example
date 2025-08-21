@@ -1,0 +1,3 @@
+# Hello world
+# Gitlab project https://gitlab.com/pterik2-group/pterik2-project
+# Video on https://www.youtube.com/watch?v=prOarIqL5Qs
